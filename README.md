@@ -4,4 +4,4 @@ This is simple readme file
 
 for cheching how git track 
 
-for tutorial of branching
+this is not a problem
